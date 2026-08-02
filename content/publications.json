@@ -1,46 +1,62 @@
 [
   {
-    "id": "example-journal-article",
-    "title": "An Example Journal Article Title",
-    "content": "Jane Doe, Jamie Taylor, and Sam Lee",
-    "link": "https://doi.org/10.0000/example.2026.001",
-    "publisher": "Journal of Example Research, 2026",
-    "image": "assets/images/publications/placeholder-cover.svg",
-    "tags": ["key_publications", "journal"],
-    "buttons": [
-      { "id": 1, "title": "Publisher", "link": "https://example.com" },
-      { "id": 2, "title": "Code", "link": "https://github.com/your-username/example-project" }
+    "id": "fertimeter-ieee-access",
+    "title": "FertiMeter: A Free of Cost Screening Process of Polycystic Ovarian Syndrome and Awareness Building to Reduce Adverse Pregnancy Outcomes in Bangladesh",
+    "content": "Md. Ehsanul Haque Chowdhury and collaborators",
+    "link": "https://ieeexplore.ieee.org/document/11598788",
+    "publisher": "IEEE Access, Early Access",
+    "image": "assets/images/publications/publication-placeholder.svg",
+    "tags": [
+      "key_publications",
+      "journal",
+      "published"
     ],
-    "created_at": 1767225600,
-    "updated_at": 1767225600
+    "buttons": [
+      {
+        "id": 1,
+        "title": "Publisher",
+        "link": "https://ieeexplore.ieee.org/document/11598788"
+      }
+    ],
+    "created_at": 0,
+    "updated_at": 0
   },
   {
-    "id": "example-conference-paper",
-    "title": "An Example Conference Paper Title",
-    "content": "Jamie Taylor, Jane Doe, and Robin Smith",
-    "link": "https://example.com",
-    "publisher": "Proceedings of the Example Conference, 2025",
-    "image": "assets/images/publications/placeholder-cover.svg",
-    "tags": ["key_publications", "conference"],
-    "buttons": [
-      { "id": 1, "title": "Paper", "link": "https://example.com" },
-      { "id": 2, "title": "Data", "link": "https://example.com" }
+    "id": "bangla-breast-cancer-fear-scale",
+    "title": "Psychometric Validation of the Bangla Version of the Breast Cancer Fear Scale Among Female University Students in Bangladesh",
+    "content": "Md. Ehsanul Haque Chowdhury and collaborators",
+    "link": "https://doi.org/10.1155/ijbc/6811105",
+    "publisher": "International Journal of Breast Cancer",
+    "image": "assets/images/publications/publication-placeholder.svg",
+    "tags": [
+      "key_publications",
+      "journal",
+      "published"
     ],
-    "created_at": 1735689600,
-    "updated_at": 1735689600
+    "buttons": [
+      {
+        "id": 1,
+        "title": "DOI",
+        "link": "https://doi.org/10.1155/ijbc/6811105"
+      }
+    ],
+    "created_at": 0,
+    "updated_at": 0
   },
   {
-    "id": "example-preprint",
-    "title": "An Example Preprint Title",
-    "content": "Jane Doe and Casey Chen",
-    "link": "https://arxiv.org/",
-    "publisher": "arXiv preprint, 2024",
-    "image": "assets/images/publications/placeholder-cover.svg",
-    "tags": ["preprint"],
-    "buttons": [
-      { "id": 1, "title": "Preprint", "link": "https://arxiv.org/" }
+    "id": "migrant-depression-review",
+    "title": "Prevalence of Depression Among International Labour Migrants: A Systematic Review and Meta-Analysis Exploring Geographic and Measurement Sources of Heterogeneity",
+    "content": "Md. Ehsanul Haque Chowdhury and collaborators",
+    "link": "",
+    "publisher": "Manuscript submitted to the International Journal of Mental Health and Addiction",
+    "image": "assets/images/publications/publication-placeholder.svg",
+    "tags": [
+      "manuscript",
+      "submitted",
+      "systematic_review"
     ],
-    "created_at": 1704067200,
-    "updated_at": 1704067200
+    "buttons": [],
+    "created_at": 0,
+    "updated_at": 0
   }
 ]

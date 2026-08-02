@@ -1,6 +1,26 @@
 [
-  { "name": "key_publications", "title": "Key Publications" },
-  { "name": "journal", "title": "Journal Articles" },
-  { "name": "conference", "title": "Conference Papers" },
-  { "name": "preprint", "title": "Preprints" }
+  {
+    "id": "key_publications",
+    "label": "Featured"
+  },
+  {
+    "id": "journal",
+    "label": "Journal Articles"
+  },
+  {
+    "id": "published",
+    "label": "Published"
+  },
+  {
+    "id": "manuscript",
+    "label": "Manuscripts"
+  },
+  {
+    "id": "submitted",
+    "label": "Submitted"
+  },
+  {
+    "id": "systematic_review",
+    "label": "Systematic Reviews"
+  }
 ]

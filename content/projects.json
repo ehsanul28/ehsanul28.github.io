@@ -1,26 +1,66 @@
 [
   {
-    "id": "project-example-one",
-    "title": "Example Research Project",
-    "summary": "A concise description of the research question, method, and intended impact of this project.",
+    "id": "migrant-depression-meta-analysis",
+    "title": "Depression Among International Labour Migrants",
+    "summary": "A systematic review and meta-analysis examining the prevalence of depression and geographic and measurement sources of heterogeneity among international labour migrants.",
     "image": "assets/images/project-placeholder.svg",
-    "image_alt": "Example Research Project placeholder image",
-    "url": "pages/projects/project-example-one.html"
+    "image_alt": "Placeholder image for the migrant depression meta-analysis project",
+    "url": ""
   },
   {
-    "id": "project-example-two",
-    "title": "Example Collaborative Project",
-    "summary": "A second example showing how to describe collaborative or interdisciplinary research.",
+    "id": "osteoarthritis-survey",
+    "title": "Community Attitudes Toward Lower-Extremity Joint Replacement",
+    "summary": "Statistical analysis of survey data from 347 participants in South Texas, focusing on attitudes toward knee replacement, demographic factors, and doctor-patient alignment.",
     "image": "assets/images/project-placeholder.svg",
-    "image_alt": "Example Collaborative Project placeholder image",
-    "url": "pages/projects/project-example-two.html"
+    "image_alt": "Placeholder image for the osteoarthritis survey project",
+    "url": ""
   },
   {
-    "id": "project-external",
-    "title": "Project with an External Website",
-    "summary": "Project cards may also link directly to an external project website or software demonstration.",
+    "id": "fertimeter",
+    "title": "FertiMeter",
+    "summary": "A free screening and awareness-building initiative for polycystic ovarian syndrome and adverse pregnancy outcomes in Bangladesh.",
     "image": "assets/images/project-placeholder.svg",
-    "image_alt": "External project placeholder image",
-    "url": "https://example.com"
+    "image_alt": "Placeholder image for the FertiMeter project",
+    "url": "https://ieeexplore.ieee.org/document/11598788"
+  },
+  {
+    "id": "breast-cancer-fear-scale",
+    "title": "Bangla Breast Cancer Fear Scale Validation",
+    "summary": "Psychometric validation of the Bangla version of the Breast Cancer Fear Scale among female university students in Bangladesh.",
+    "image": "assets/images/project-placeholder.svg",
+    "image_alt": "Placeholder image for the breast cancer fear scale project",
+    "url": "https://doi.org/10.1155/ijbc/6811105"
+  },
+  {
+    "id": "climate-uti",
+    "title": "Climatic Influences on Urinary Tract Infections",
+    "summary": "An analysis of seasonal, environmental, climatic, and socio-behavioral patterns of urinary tract infection prevalence among women and adolescents in Kamrangirchar, Dhaka.",
+    "image": "assets/images/project-placeholder.svg",
+    "image_alt": "Placeholder image for the climate and UTI project",
+    "url": ""
+  },
+  {
+    "id": "synthetic-healthcare-data",
+    "title": "Synthetic Data and Intelligent Systems in Healthcare Informatics",
+    "summary": "A review of frameworks, challenges, and future research directions for synthetic data and intelligent systems in healthcare informatics.",
+    "image": "assets/images/project-placeholder.svg",
+    "image_alt": "Placeholder image for the synthetic healthcare data project",
+    "url": ""
+  },
+  {
+    "id": "bedtime-procrastination",
+    "title": "Bedtime Procrastination and Student Well-Being",
+    "summary": "A multi-region study examining relationships among 4DSQ scores, sleep quality, internet use disorder, nicotine dependence, and bedtime procrastination among Bangladeshi university students.",
+    "image": "assets/images/project-placeholder.svg",
+    "image_alt": "Placeholder image for the bedtime procrastination project",
+    "url": ""
+  },
+  {
+    "id": "rcpp-integration",
+    "title": "The Seamless Integration of R and C++ with Rcpp",
+    "summary": "An undergraduate project exploring efficient integration of R and C++ using the Rcpp package.",
+    "image": "assets/images/project-placeholder.svg",
+    "image_alt": "Placeholder image for the Rcpp integration project",
+    "url": ""
   }
 ]

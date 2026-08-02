@@ -1,22 +1,42 @@
 [
   {
-    "date": "2026-06-15",
-    "text": "Jane presented recent research at the Example International Conference.",
+    "date": "2026-03-01",
+    "text": "Completed research assistance on the FertiMeter project, which was published in IEEE Access as an early-access article.",
     "image": "",
     "gif": "",
-    "url": "https://example.com",
-    "url_label": "Conference website"
+    "url": "https://ieeexplore.ieee.org/document/11598788",
+    "url_label": "View publication"
   },
   {
-    "date": "2026-03-10",
-    "text": "Jane's paper on an example research topic was accepted for publication.",
+    "date": "2025-05-04",
+    "text": "Research on climatic influences and urinary tract infections was accepted for presentation at the 17th International Conference on Engineering & Natural Sciences in Prague.",
     "image": "",
-    "gif": ""
+    "gif": "",
+    "url": "",
+    "url_label": ""
   },
   {
-    "date": "2026-01-08",
-    "text": "Jane joined Example University as a doctoral researcher.",
+    "date": "2025-04-25",
+    "text": "Presented research at the BIE Seminar 2025 on Climate Resilience and Sustainable Development and received the Best Presenter Award.",
     "image": "",
-    "gif": ""
+    "gif": "",
+    "url": "",
+    "url_label": ""
+  },
+  {
+    "date": "2025-01-01",
+    "text": "The project on community attitudes toward lower-extremity joint replacement was accepted for the AMA Research Challenge 2025.",
+    "image": "",
+    "gif": "",
+    "url": "",
+    "url_label": ""
+  },
+  {
+    "date": "2024-08-22",
+    "text": "Began serving as Program Head at Positive Plus Foundation.",
+    "image": "",
+    "gif": "",
+    "url": "",
+    "url_label": ""
   }
 ]

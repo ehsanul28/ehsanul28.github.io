@@ -1,87 +1,177 @@
 [
   {
+    "title": "Education",
+    "entries": [
+      {
+        "title": "Bachelor of Science in Applied Statistics",
+        "organization": "Institute of Statistical Research and Training, University of Dhaka",
+        "dates": "August 2022 – June 2026",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "University of Dhaka placeholder logo",
+        "flag": "BD",
+        "flag_alt": "Bangladesh flag",
+        "bullets": [
+          "Cumulative GPA: 3.57/4.00"
+        ]
+      },
+      {
+        "title": "Higher Secondary Education",
+        "organization": "St. Joseph Higher Secondary School, Dhaka",
+        "dates": "June 2019 – December 2021",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Institution placeholder logo",
+        "flag": "BD",
+        "flag_alt": "Bangladesh flag",
+        "bullets": [
+          "GPA: 5.00/5.00",
+          "Government Merit Scholarship"
+        ]
+      }
+    ]
+  },
+  {
     "title": "Research Experience",
     "entries": [
       {
-        "title": "Doctoral Researcher",
-        "organization": "Example University",
-        "dates": "Sep 2024 - Present",
+        "title": "Research Collaborator – Data Analysis",
+        "organization": "University of the Incarnate Word School of Osteopathic Medicine",
+        "dates": "Ongoing",
         "logo": "assets/images/institution-placeholder.svg",
-        "logo_alt": "Example University logo placeholder",
-        "flag": "GB-ENG",
-        "flag_alt": "Country flag",
+        "logo_alt": "Institution placeholder logo",
+        "flag": "US-TX",
+        "flag_alt": "Texas flag",
         "bullets": [
-          "Researching an example topic in the Example Research Group.",
-          "Developing methods for an example application and collaborating with domain experts."
+          "Preparing statistical analysis for survey data from 347 participants.",
+          "Planning ordinal logistic regression for Likert-scale outcomes.",
+          "Working with demographic, procedural-perception, and doctor-patient alignment variables."
         ]
       },
       {
         "title": "Research Assistant",
-        "organization": "Example Research Institute",
-        "dates": "Jun 2023 - Aug 2024",
+        "organization": "FertiMeter Project, University of Dhaka",
+        "dates": "May 2025 – March 2026",
         "logo": "assets/images/institution-placeholder.svg",
-        "logo_alt": "Example Research Institute logo placeholder",
-        "flag": "US",
-        "flag_alt": "Country flag",
+        "logo_alt": "University of Dhaka placeholder logo",
+        "flag": "BD",
+        "flag_alt": "Bangladesh flag",
         "bullets": [
-          "Supported an interdisciplinary research project.",
-          "Analysed data and contributed to a peer-reviewed manuscript."
+          "Contributed to the UI/UX design of the FertiMeter application."
         ]
-      }
-    ]
-  },
-  {
-    "title": "Teaching Experience",
-    "entries": [
-      {
-        "title": "Teaching Assistant",
-        "organization": "Example University",
-        "dates": "Jan 2025 - May 2025",
-        "logo": "assets/images/institution-placeholder.svg",
-        "logo_alt": "Example University logo placeholder",
-        "flag": "GB-ENG",
-        "flag_alt": "Country flag",
-        "bullets": [
-          "Assisted with Example Course: Introduction to the Subject.",
-          "Led tutorials and provided feedback on coursework."
-        ]
-      }
-    ]
-  },
-  {
-    "title": "Education",
-    "entries": [
-      {
-        "title": "Doctor of Philosophy (PhD), Example Subject",
-        "organization": "Example University",
-        "dates": "2024 - Present",
-        "logo": "assets/images/institution-placeholder.svg",
-        "logo_alt": "Example University logo placeholder",
-        "flag": "GB-ENG",
-        "flag_alt": "Country flag"
       },
       {
-        "title": "Master of Science, Example Subject",
-        "organization": "Example University",
-        "dates": "2022 - 2023",
+        "title": "Research Collaborator – Scale Development and Initial Data Analysis",
+        "organization": "Bangla Breast Cancer Fear Scale Validation Project",
+        "dates": "Completed",
         "logo": "assets/images/institution-placeholder.svg",
-        "logo_alt": "Example University logo placeholder",
-        "flag": "US",
-        "flag_alt": "Country flag"
+        "logo_alt": "Institution placeholder logo",
+        "flag": "BD",
+        "flag_alt": "Bangladesh flag",
+        "bullets": [
+          "Conducted descriptive analysis, item-wise reliability testing, and exploratory factor analysis.",
+          "Assessed sampling adequacy using KMO and factorability using Bartlett’s test.",
+          "Supported online data collection and manuscript development."
+        ]
       }
     ]
   },
   {
-    "title": "Honors and Awards",
+    "title": "Academic Projects",
     "entries": [
       {
-        "title": "Example Academic Award",
-        "organization": "Example Professional Society",
-        "dates": "May 2025",
+        "title": "Depression Among International Labour Migrants",
+        "organization": "Undergraduate Final-Year Project",
+        "dates": "Ongoing",
         "logo": "assets/images/institution-placeholder.svg",
-        "logo_alt": "Awarding organization logo placeholder",
-        "flag": "GB-ENG",
-        "flag_alt": "Country flag"
+        "logo_alt": "Institution placeholder logo",
+        "flag": "BD",
+        "flag_alt": "Bangladesh flag",
+        "bullets": [
+          "Systematic review and meta-analysis.",
+          "Examines geographic and measurement sources of heterogeneity.",
+          "Manuscript submitted to the International Journal of Mental Health and Addiction."
+        ]
+      },
+      {
+        "title": "The Seamless Integration of R and C++ with Rcpp",
+        "organization": "Undergraduate Sophomore Project",
+        "dates": "2024",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Institution placeholder logo",
+        "flag": "BD",
+        "flag_alt": "Bangladesh flag"
+      }
+    ]
+  },
+  {
+    "title": "Skills",
+    "entries": [
+      {
+        "title": "Statistical and Programming Software",
+        "organization": "R, RMarkdown, Stata, SPSS, LaTeX, MS Excel, MS Word, MS PowerPoint",
+        "dates": "",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Software skills placeholder logo",
+        "bullets": [
+          "Data analysis and visualization using tidyverse and ggplot2.",
+          "Proficient written and oral communication in English and Bengali."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Leadership and Service",
+    "entries": [
+      {
+        "title": "Program Head",
+        "organization": "Positive Plus Foundation",
+        "dates": "August 2024 – Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Positive Plus Foundation placeholder logo",
+        "flag": "BD",
+        "flag_alt": "Bangladesh flag",
+        "bullets": [
+          "Provides administrative and research support and oversees program coordination.",
+          "Supported educational programs in Liberia and health-screening initiatives in Mirpur and Gazipur."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Awards and Achievements",
+    "entries": [
+      {
+        "title": "Best Presenter Award",
+        "organization": "BIE Seminar 2025",
+        "dates": "2025",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Award placeholder logo"
+      },
+      {
+        "title": "Government Merit Scholarship",
+        "organization": "Dhaka Board Higher Secondary Examination",
+        "dates": "2022",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Award placeholder logo"
+      },
+      {
+        "title": "Inter-Cantonment Quiz Olympiad",
+        "organization": "National Round",
+        "dates": "2018",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Award placeholder logo",
+        "bullets": [
+          "6th place"
+        ]
+      },
+      {
+        "title": "Inter-School General Knowledge Olympiad",
+        "organization": "Division Round",
+        "dates": "2018",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Award placeholder logo",
+        "bullets": [
+          "3rd place"
+        ]
       }
     ]
   }
