@@ -8,11 +8,7 @@
   "description": "Academic portfolio of Md. Ehsanul Haque Chowdhury, an Applied Statistics student and early-career researcher at the University of Dhaka.",
   "copyright_year": 2026,
   "footer_text": "Last updated:",
-  "attribution": {
-    "prefix": "Adapted from",
-    "source_label": "mraoaakash/academic-website-template",
-    "source_url": "https://github.com/mraoaakash/academic-website-template"
-  },
+ 
   "navigation": [
     {
       "label": "Home",
