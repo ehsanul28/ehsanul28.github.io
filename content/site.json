@@ -1,11 +1,11 @@
 {
-  "name": "Jane Doe",
-  "short_name": "Jane",
-  "publication_name": "Jane Doe",
-  "citation_name": "J. Doe",
-  "email_display": "jane [dot] doe [at] example [dot] edu",
-  "site_title": "Jane Doe | Academic Website",
-  "description": "Academic website of Jane Doe.",
+  "name": "Md. Ehsanul Haque Chowdhury",
+  "short_name": "Ehsanul",
+  "publication_name": "Md. Ehsanul Haque Chowdhury",
+  "citation_name": "M. E. H. Chowdhury",
+  "email_display": "Email available upon request",
+  "site_title": "Md. Ehsanul Haque Chowdhury | Academic Portfolio",
+  "description": "Academic portfolio of Md. Ehsanul Haque Chowdhury, an Applied Statistics student and early-career researcher at the University of Dhaka.",
   "copyright_year": 2026,
   "footer_text": "Last updated:",
   "attribution": {
@@ -14,31 +14,66 @@
     "source_url": "https://github.com/mraoaakash/academic-website-template"
   },
   "navigation": [
-    { "label": "Home", "path": "index.html" },
-    { "label": "Projects", "path": "pages/projects.html" },
-    { "label": "Publications", "path": "pages/publications.html" },
-    { "label": "News", "path": "pages/news.html" },
-    { "label": "CV", "path": "pages/cv.html" }
+    {
+      "label": "Home",
+      "path": "index.html"
+    },
+    {
+      "label": "Projects",
+      "path": "pages/projects.html"
+    },
+    {
+      "label": "Publications",
+      "path": "pages/publications.html"
+    },
+    {
+      "label": "News",
+      "path": "pages/news.html"
+    },
+    {
+      "label": "CV",
+      "path": "pages/cv.html"
+    }
   ],
   "pages": {
-    "index.html": { "title": "", "description": "Academic website of Jane Doe." },
-    "projects.html": { "title": "Projects", "description": "Research projects by Jane Doe." },
-    "publications.html": { "title": "Publications", "description": "Publications by Jane Doe." },
-    "news.html": { "title": "News", "description": "Latest news and updates from Jane Doe." },
-    "cv.html": { "title": "CV", "description": "Curriculum Vitae of Jane Doe." }
+    "index.html": {
+      "title": "",
+      "description": "Academic portfolio of Md. Ehsanul Haque Chowdhury."
+    },
+    "projects.html": {
+      "title": "Projects",
+      "description": "Research projects by Md. Ehsanul Haque Chowdhury."
+    },
+    "publications.html": {
+      "title": "Publications",
+      "description": "Publications by Md. Ehsanul Haque Chowdhury."
+    },
+    "news.html": {
+      "title": "News",
+      "description": "Research news and professional updates from Md. Ehsanul Haque Chowdhury."
+    },
+    "cv.html": {
+      "title": "CV",
+      "description": "Curriculum Vitae of Md. Ehsanul Haque Chowdhury."
+    }
   },
   "profile_image": "assets/images/profile-placeholder.svg",
-  "profile_image_alt": "Jane Doe profile photo placeholder",
-  "bio_html": "Jane is a doctoral researcher in Example Department at Example University. Her research focuses on an interesting research area and its applications to real-world problems. Previously, Jane completed a master's degree in Example Subject and a bachelor's degree in Example Subject. Replace this paragraph with your own biography in <code>content/site.json</code>.",
+  "profile_image_alt": "Profile photograph of Md. Ehsanul Haque Chowdhury",
+  "bio_html": "Ehsanul is an undergraduate student in Applied Statistics at the Institute of Statistical Research and Training, University of Dhaka. His research interests include mental health, public health, reproductive health, psychometrics, healthcare informatics, and applied statistical analysis. He has contributed to research involving systematic reviews and meta-analysis, survey data analysis, scale validation, ordinal logistic regression, exploratory factor analysis, and health application development. His technical experience includes R, RMarkdown, Stata, SPSS, LaTeX, data visualization, and the tidyverse and ggplot2 packages. He currently serves as Program Head at Positive Plus Foundation and supports research, educational, and health-screening programs.",
   "contact": [
-    "jane [dot] doe [at] example [dot] edu",
-    "Example Department, Example University, City, Country"
+    "Institute of Statistical Research and Training (ISRT)",
+    "University of Dhaka, Dhaka, Bangladesh"
   ],
   "social_links": [
-    { "label": "University profile", "url": "https://example.edu/your-profile", "image": "assets/images/institution-placeholder.svg", "image_class": "institution-logo", "image_alt": "Institution logo placeholder" },
-    { "label": "Google Scholar", "url": "https://scholar.google.com/", "icon": "fa-brands fa-google-scholar" },
-    { "label": "LinkedIn", "url": "https://www.linkedin.com/", "icon": "fa-brands fa-linkedin" },
-    { "label": "GitHub", "url": "https://github.com/your-username", "icon": "fa-brands fa-square-github" },
-    { "label": "ORCID", "url": "https://orcid.org/", "icon": "fa-brands fa-orcid" }
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/md-ehsanul-haque-chowdhury-b75202264",
+      "icon": "fa-brands fa-linkedin"
+    },
+    {
+      "label": "GitHub",
+      "url": "https://github.com/ehsanul28",
+      "icon": "fa-brands fa-square-github"
+    }
   ]
 }
