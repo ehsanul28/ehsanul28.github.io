@@ -64,16 +64,22 @@
     "Institute of Statistical Research and Training (ISRT)",
     "University of Dhaka, Dhaka, Bangladesh"
   ],
-  "social_links": [
-    {
-      "label": "LinkedIn",
-      "url": "https://www.linkedin.com/in/md-ehsanul-haque-chowdhury-b75202264",
-      "icon": "fa-brands fa-linkedin"
-    },
-    {
-      "label": "GitHub",
-      "url": "https://github.com/ehsanul28",
-      "icon": "fa-brands fa-square-github"
-    }
-  ]
+"social_links": [
+  {
+    "label": "LinkedIn",
+    "url": "https://www.linkedin.com/in/md-ehsanul-haque-chowdhury-b75202264",
+    "icon": "fa-brands fa-linkedin"
+  },
+  {
+    "label": "GitHub",
+    "url": "https://github.com/ehsanul28",
+    "icon": "fa-brands fa-square-github"
+  },
+  {
+    "label": "ORCID",
+    "url": "https://orcid.org/0009-0002-6013-0619",
+    "icon": "fa-brands fa-orcid"
+  }
+]
+  
 }
