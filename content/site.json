@@ -57,7 +57,7 @@
       "description": "Curriculum Vitae of Md. Ehsanul Haque Chowdhury."
     }
   },
-  "profile_image": "assets/images/profile.jpg",
+  "profile_image": "assets/image/profile.jpeg",
   "profile_image_alt": "Profile photograph of Md. Ehsanul Haque Chowdhury",
   "bio_html": "Ehsanul is an undergraduate student in Applied Statistics at the Institute of Statistical Research and Training, University of Dhaka. His research interests include mental health, public health, reproductive health, psychometrics, healthcare informatics, and applied statistical analysis. He has contributed to research involving systematic reviews and meta-analysis, survey data analysis, scale validation, ordinal logistic regression, exploratory factor analysis, and health application development. His technical experience includes R, RMarkdown, Stata, SPSS, LaTeX, data visualization, and the tidyverse and ggplot2 packages. He currently serves as Program Head at Positive Plus Foundation and supports research, educational, and health-screening programs.",
   "contact": [
